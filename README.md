@@ -6,6 +6,8 @@ Refaktoryzacja kodu GildedRose.
 
 Przeprowadzono 5 testów jednostkowych, które miały na celu sprawdzenie poprawności napisanego kodu. Wszystkie przeszły pomyślnie.
 
+![testy](screenshots/testy.png)
+
 
 ## 2. Złożoność
 
