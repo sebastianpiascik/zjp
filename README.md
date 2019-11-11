@@ -15,7 +15,11 @@ Przeprowadzono 5 testów jednostkowych, które miały na celu sprawdzenie popraw
 
 - Przed refaktoryzacją: 
 
+![zlozonosc](screenshots/initital.png)
+
 - Po refaktoryzacji
+
+![zlozonosc](screenshots/after.png)
 
 
 ## 3. Kod
