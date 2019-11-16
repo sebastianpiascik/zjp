@@ -25,6 +25,15 @@ Przeprowadzono 5 testów jednostkowych, które miały na celu sprawdzenie popraw
 ![zlozonosc](screenshots/after.png)
 
 
+**Dane przedstawione na wykresach**
+
+![wykres](screenshots/w1.jpg)
+
+![wykres](screenshots/w2.jpg)
+
+![wykres](screenshots/w3.jpg)
+
+
 ## 3. Kod
 
 Kod źródłowy przed refaktoryzacją:
